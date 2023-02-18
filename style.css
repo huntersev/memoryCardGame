@@ -1,0 +1,36 @@
+* {
+  background-color: #361D0B;
+  color: beige;
+  font-family: Arial;
+}
+
+#pageContent {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+h1{
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 100%;
+  border: 3px solid black;
+}
+
+.cards img{
+  width: 200px;
+  height: 200px;
+}
+
+p {
+  text-align: center;
+  padding: 10px;
+  font-size: 2rem;
+  font-family: fantasy;
+}
